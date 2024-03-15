@@ -12,3 +12,17 @@ C:\Users\Antonio Díaz\source\repos\Taqt\Taqt\obj\Debug\Taqt.vbproj.CopyComplete
 C:\Users\Antonio Díaz\source\repos\Taqt\Taqt\obj\Debug\Taqt.exe
 C:\Users\Antonio Díaz\source\repos\Taqt\Taqt\obj\Debug\Taqt.xml
 C:\Users\Antonio Díaz\source\repos\Taqt\Taqt\obj\Debug\Taqt.pdb
+C:\Users\Moisés Moyano\source\repos\Taqt\Taqt\bin\Debug\Taqt.exe.config
+C:\Users\Moisés Moyano\source\repos\Taqt\Taqt\bin\Debug\Taqt.exe
+C:\Users\Moisés Moyano\source\repos\Taqt\Taqt\bin\Debug\Taqt.pdb
+C:\Users\Moisés Moyano\source\repos\Taqt\Taqt\bin\Debug\Taqt.xml
+C:\Users\Moisés Moyano\source\repos\Taqt\Taqt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Moisés Moyano\source\repos\Taqt\Taqt\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Moisés Moyano\source\repos\Taqt\Taqt\obj\Debug\Taqt.vbproj.AssemblyReference.cache
+C:\Users\Moisés Moyano\source\repos\Taqt\Taqt\obj\Debug\Taqt.Resources.resources
+C:\Users\Moisés Moyano\source\repos\Taqt\Taqt\obj\Debug\Taqt.vbproj.GenerateResource.cache
+C:\Users\Moisés Moyano\source\repos\Taqt\Taqt\obj\Debug\Taqt.vbproj.CoreCompileInputs.cache
+C:\Users\Moisés Moyano\source\repos\Taqt\Taqt\obj\Debug\Taqt.vbproj.CopyComplete
+C:\Users\Moisés Moyano\source\repos\Taqt\Taqt\obj\Debug\Taqt.exe
+C:\Users\Moisés Moyano\source\repos\Taqt\Taqt\obj\Debug\Taqt.xml
+C:\Users\Moisés Moyano\source\repos\Taqt\Taqt\obj\Debug\Taqt.pdb
