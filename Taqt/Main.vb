@@ -4,6 +4,10 @@ Imports System.Net.Http.Headers
 Imports System.Text
 Imports System.Threading.Tasks
 Imports Newtonsoft.Json.Linq
+Imports Newtonsoft.Json
+
+
+
 
 Module Main
 
@@ -17,7 +21,15 @@ Module Main
         'Dim urlEvents As String = "https://api.taqt.com/companies/453/events"
 
         Dim datosJson As JObject = GetDatos(token, urlActions)
-        Console.WriteLine(datosJson)
+       ' Console.WriteLine(datosJson)
+
+        Dim json As String = datosJson 
+        Dim actionDataList As List(Of ActionData) = JsonConvert.DeserializeObject(Of List(Of ActionData))(json)
+
+        For Each actionData As ActionData In actionDataList
+            Console.WriteLine("ID: " & actionData.id)
+            Console.WriteLine("Type: " & actionData.type)
+        Next
 
         Console.ReadKey()
     End Sub
